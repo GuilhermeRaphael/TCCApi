@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rSJeDsbNnADB+inkwzkoeR23FjHUg9pYGLk9fRJdBXI=",
+  "Source": "TCCApi",
+  "BasePath": "_content/TCCApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
